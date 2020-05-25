@@ -1,6 +1,8 @@
 # TFG-WEB
 Racó d'Estudi - Plataforma educativa online
 
+Projecte de final de grau, enginyeria informàtica UOC.
+
 Per instal·lar el projecte és necessari un hosting compatible amb PHP 7.4.0 i base de dades MYSQL 5.7.28. 
 Per exemple el que jo he fet servir és el WAMP SERVER x32 bits per desenvolupar el projecte de forma offline al teu pc.
 
