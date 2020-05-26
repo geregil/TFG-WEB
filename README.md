@@ -22,5 +22,5 @@ Finalment un cop importada la base de dades, carregar tots els arxius WEB al hos
 
 
 Atentament,
-Gerard
+Gerard.
 Estudiant d'Enginyeria Informàtica de la UOC.
