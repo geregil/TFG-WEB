@@ -65,7 +65,7 @@ try {
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = utf8_encode('Validació compte');
-    $mail->Body    = utf8_encode('Per validar el compte entra al següent enllaç.</br></br> <a href="http://localhost/WEB/main_app/validacio.php?validat='.$idalumne.'&codi='.$randomNumber.'">recuperar contrasenya</a>');
+    $mail->Body    = utf8_encode('Per validar el compte entra al següent enllaç.</br></br> <a href="http://localhost/WEB/main_app/validacio.php?validat='.$idalumne.'&codi='.$randomNumber.'">validar el compte</a>');
     $mail->send();
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
